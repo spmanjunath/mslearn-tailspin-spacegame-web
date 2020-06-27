@@ -1,4 +1,4 @@
-[![CI status on Azure Pipelines](https://dev.azure.com/zawa640567/mslearn-tailspin-spacegame-web/_apis/build/status/spmanjunath.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/spmanjunath/mslearn-tailspin-spacegame-web/_build/latest?definitionId=1&branchName=master)
+[![CI status on Azure Pipelines](https://dev.azure.com/spmanjunath/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/spmanjunath.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/spmanjunath/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
